@@ -1,18 +1,54 @@
-### Hey there 👋
+<h2 align="center">Hi, I'm Dani 👋</h2>
+<p align="center">
+  Software Engineering Student • Frontend-focused • Romania 🇷🇴
+</p>
 
-I'm Dani, a software engineer based in Romania.
+---
 
-I mostly work on fronted stuff and trying to learn more about backend.
+### 👨‍💻 About Me
 
-This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is build from scratch, no copy/paste templates.
+I'm a **software engineering student** with a strong interest in **frontend development**, currently working with core web technologies and gradually expanding into backend development.
 
-##
-### Tools & Tech
-- HTML, CSS, JavaScript
-- C++, C#, Python
-- phpMyAdmin, MongoDB
+This GitHub profile contains:
+- website templates  
+- academic projects  
+- small experimental builds  
 
-##
-### A Bit About Me
-- 🍵 Not a tea person
-- 👨‍🎓 Engineering Student
+All projects are developed **from scratch**, focusing on clean structure and practical learning.
+
+---
+
+### 🛠 Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/HTML-111111?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-111111?style=flat&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/phpMyAdmin-111111?style=flat&logo=phpmyadmin&logoColor=white"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/C++-111111?style=flat&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-111111?style=flat&logo=csharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-111111?style=flat&logo=python&logoColor=white"/>
+</p>
+
+---
+
+### 📌 Currently Focused On
+- strengthening JavaScript fundamentals  
+- building responsive UI layouts  
+- learning backend workflows with Node.js  
+
+---
+
+### 🤝 Open To
+- constructive feedback  
+- collaboration on small web projects  
+- learning opportunities  
+
+<p align="center">
+  <sub>Clean code • Practical learning • Continuous improvement</sub>
+</p>
