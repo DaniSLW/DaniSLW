@@ -24,9 +24,9 @@ All projects are developed **from scratch**, focusing on clean structure and pra
   <img src="https://img.shields.io/badge/HTML-111111?style=flat&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-111111?style=flat&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-111111?style=flat&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=white"/>
+  <!--<img src="https://img.shields.io/badge/Node.js-111111?style=flat&logo=node.js&logoColor=white"/>-->
   <img src="https://img.shields.io/badge/phpMyAdmin-111111?style=flat&logo=phpmyadmin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat&logo=mongodb&logoColor=white"/>
 </p>
 
 <p>
@@ -48,6 +48,19 @@ All projects are developed **from scratch**, focusing on clean structure and pra
 - constructive feedback  
 - collaboration on small web projects  
 - learning opportunities  
+
+---
+
+### 💙 Support
+
+If you find my projects useful and would like to support my work:
+<p align="center">
+  <a href="https://www.paypal.me/datcudani" target="_blank">
+    <img src="https://img.shields.io/badge/Support-PayPal-111111?style=flat&logo=paypal&logoColor=white"/>
+  </a>
+</p>
+
+##
 
 <p align="center">
   <sub>Clean code • Practical learning • Continuous improvement</sub>
