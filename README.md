@@ -38,9 +38,9 @@ All projects are developed **from scratch**, focusing on clean structure and pra
 ---
 
 ### 📌 Currently Focused On
-- strengthening JavaScript fundamentals  
-- building responsive UI layouts  
-- learning backend workflows with Node.js  
+- exploring backend development using MongoDB and MySQL  
+- building small server-side features and APIs  
+- strengthening understanding of backend fundamentals  
 
 ---
 
