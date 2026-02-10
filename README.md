@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hey there 👋
 
-<!--
-**DaniSLW/DaniSLW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dani, a software engineer based in Romania.
 
-Here are some ideas to get you started:
+I mostly work on fronted stuff and trying to learn more about backend.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This is a fresh profile where I'll be uploading some smaller projects, experiments, and things I'm currently working on. Everything here is build from scratch, no copy/paste templates.
+
+##
+### Tools & Tech
+- HTML, CSS, JavaScript
+- C++, C#, Python
+- phpMyAdmin, MongoDB
+
+##
+### A Bit About Me
+- 🍵 Not a tea person
+- 👨‍🎓 Engineering Student
