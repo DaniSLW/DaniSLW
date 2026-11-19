@@ -1,12 +1,8 @@
-# 👋 Hi, I'm Dani!
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Michroma&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=60&lines=Software+Engineering+Student;Frontend+Developer;Web+Designer;Backend+Developer)](https://git.io/typing-svg)
+# 👋 Hi, I'm Dani!
 
-![Profile Views](https://komarev.com/ghpvc/?username=DaniSLW&label=PROFILE+VIEWS&color=2563EB&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/DaniSLW?label=FOLLOWERS&style=flat-square&color=2563EB)
-![GitHub Stars](https://img.shields.io/github/stars/DaniSLW?label=TOTAL%20STARS&style=flat-square&color=2563EB)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Michroma&size=20&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=60&lines=Software+Engineering+Student;Frontend+Developer;Web+Designer;Backend+Developer)](https://git.io/typing-svg)
 
 </div>
 
